@@ -1,0 +1,4 @@
+"Nama: Graciella Bawiling"  
+"Umur: 20"  
+"Pekerjaan: Mahasiswa" 
+"Hobi: Membaca dan ngoding" 
